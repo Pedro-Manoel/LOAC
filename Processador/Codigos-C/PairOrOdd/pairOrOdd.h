@@ -1,0 +1,1 @@
+int pairOrOdd (register int num);
