@@ -25,8 +25,8 @@ Jogo que simula uma aterrissagem lunar | [Link](Sequenciais/Jogo-Aterrissagem-Lu
 ### ✔️  Máquinas de Estados
 Nome | Especificação | Diagrama | Código
 :--- | :------       | :------- | :-------
-Bomba de Recalque | [Link](Sequenciais/FSM-Bomba-Recalque/Bomba.md) | [link](Sequenciais/FSM-Bomba-Recalque/Diagrama-Estados.pdf) | [Link](Sequenciais/FSM-Bomba-Recalque/top.sv)
-Ar-Condicionado | [Link](Sequenciais/FSM-Ar-Condicionado/Ar-Condicionado.md) | [link](Sequenciais/FSM-Ar-Condicionado/Diagrama-Estados.pdf) | [Link](Sequenciais/FSM-Ar-Condicionado/top.sv)
+Bomba de Recalque | [Link](Sequenciais/FSM-Bomba-Recalque/Bomba.md) | [link](Sequenciais/FSM-Bomba-Recalque/Diagrama.pdf) | [Link](Sequenciais/FSM-Bomba-Recalque/top.sv)
+Ar-Condicionado | [Link](Sequenciais/FSM-Ar-Condicionado/Ar-Condicionado.md) | [link](Sequenciais/FSM-Ar-Condicionado/Diagrama.pdf) | [Link](Sequenciais/FSM-Ar-Condicionado/top.sv)
 
 ## ⚡ Circuitos com Paralelismo
 Nome | Especificação | Código

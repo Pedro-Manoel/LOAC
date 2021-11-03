@@ -7,7 +7,7 @@
 - [Sequenciais](Sequenciais)
 
 ## 📌 Projetos
-- [Relógio Digital](Projetos/Relogio-Digital/relogio-digital.md)
+- [Relógio Digital](Projetos/Relogio-Digital)
 
 ## 👀 Como visualizar os circuitos ?
 

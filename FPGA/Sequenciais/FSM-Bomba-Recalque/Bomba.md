@@ -2,7 +2,7 @@
 
 Projeto de um circuito sequencial para o controle de uma bomba de recalque que leva água de uma cisterna para uma caixa d'água. 
 
-Na cisterna é instalado um sensor de nível, que demarca o nível minimo de água. Na caixa d'água são  instalados dois sensores, que demarcam, respectivamente, o nível máximo e mínimo de água.
+Na cisterna é instalado um sensor de nível, que demarca o nível mínimo de água. Na caixa d'água são  instalados dois sensores, que demarcam, respectivamente, o nível máximo e mínimo de água.
 
 Quando a caixa d'água estiver vazia (quantidade de água abaixo do nivel mínimo) e houver água na cisterna (quantidade de água acima ou igual ao nivel mínimo) e os sensores da caixa d'água não apresentarem nenhuma inconsistência, devera ser bombada água da cisterna para a caixa d'água, acionando a bomba de recalque. 
 
