@@ -1,4 +1,6 @@
-# 🎈 Processador
+<h1 align="center">
+  <p> 🎈 Processador </p>
+</h1>
 
 ## 📌 Códigos em C para FPGA
 - [Calculator](Codigos-C/Calculator)

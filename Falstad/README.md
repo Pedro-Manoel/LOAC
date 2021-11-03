@@ -1,4 +1,6 @@
-# 🎈 Falstad
+<h1 align="center">
+  <p> 🎈 Falstad </p>
+</h1>
 
 ## ⚡ Circuitos
 - [Combinacionais](Combinacionais)

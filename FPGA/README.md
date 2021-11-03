@@ -1,10 +1,12 @@
-# 🎈 FPGA
+<h1 align="center">
+  <p> 🎈 FPGA </p>
+</h1>
 
 ## ⚡ Circuitos Combinacionais
 
 Nome | Especificação | Código
 :--------- | :------ | :-------
-Lógica combinatória | [Link](Combinacionais/Logica-Combinatoria/Comb.pdf) | [Link](Combinacionais/Logica-Combinatoria/top.sv)
+Lógica combinatória | [Link](Combinacionais/Logica-combinatoria/Comb.pdf) | [Link](Combinacionais/Logica-combinatoria/top.sv)
 Display de 7 segmentos | [Link](Combinacionais/Display-7-segmentos/Seg7.pdf) | [Link](Combinacionais/Display-7-segmentos/top.sv)
 Soma, Subtração e Multiplicação | [Link](Combinacionais/Soma-Subtracao-Multiplicacao/Soma.pdf) | [Link](Combinacionais/Soma-Subtracao-Multiplicacao/top.sv)
 ULA | [Link](Combinacionais/ULA/ULA.pdf) | [Link](Combinacionais/ULA/top.sv)
@@ -30,7 +32,6 @@ Ar-Condicionado | [Link](Sequenciais/FSM-Ar-Condicionado/Ar-Condicionado.md) | [
 Nome | Especificação | Código
 :--------- | :------ | :-------
 Soma, Subtração e Divisão | [Link](Paralelismo/Soma-Subtracao-Divisao/Divi.pdf) | [Link](Paralelismo/Soma-Subtracao-Divisao/top.sv)
-
 
 ## 👀 Como executar o código dos circuitos ?
 

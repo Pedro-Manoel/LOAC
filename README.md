@@ -13,7 +13,7 @@ Repositório com as atividades desenvolvidas ao longo da disciplina.
 - [Processador](Processador)
 
 ## 📌 Atividades Extras
-- [Hamming e Paridade](Extras/Hamming-Parity/hamming-parity.md)
+- [Hamming e Paridade](Extras/Hamming-Parity)
 
 ## 📃 Licença
 

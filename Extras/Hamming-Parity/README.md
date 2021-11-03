@@ -1,4 +1,6 @@
-# 🎈 Hamming e Paridade
+<h1 align="center">
+  <p> 🎈 Hamming e Paridade </p>
+</h1>
 
 ## 📝 Descrição
 

@@ -1,12 +1,10 @@
-# ⌚ Relógio Digital
+<h1 align="center">
+  <p> ⌚ Relógio Digital </p>
+</h1>
 
 ## 📝 Descrição
 
 Construa um Relógio Digita com exibição de horas, minutos e segundos.
-
-## 💡 Código
-
-- [Relógio Digital](Relogio-Digital.txt)
 
 ## ⚡ Circuito
 
